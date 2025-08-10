@@ -1,5 +1,5 @@
 <h1 align="center"> Juego del Amigo Secreto 🎁 </h1>
-![Static Badge](https://img.shields.io/badge/Estado%20-%20Completado%20-%20verde)
+![Estado](https://img.shields.io/badge/Estado%20-%20Completado%20-%20verde)
 
 ## Descripción
 
