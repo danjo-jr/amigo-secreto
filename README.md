@@ -29,9 +29,9 @@ GitHub Pages: https://danjo-jr.github.io/amigo-secreto/
 
 <h1>3. Como jugar</h1>
 
-1 Escribe un nombre en el campo de texto.
-2 Haz clic en Adicionar para agregarlo a la lista.
-3 Cuando hayas agregado todos los nombres, presiona Sortear Amigo para conocer el resultado.
+1. Escribe un nombre en el campo de texto.
+2. Haz clic en Adicionar para agregarlo a la lista.
+3. Cuando hayas agregado todos los nombres, presiona Sortear Amigo para conocer el resultado.
 
 <h1>4. Estructura del proyecto</h1>
 
