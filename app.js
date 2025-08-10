@@ -20,7 +20,6 @@ function agregarAmigo() {
     // Limpiamos el campo de texto
     input.value = "";
 
-    console.log("Lista actualizada:", listaAmigos); // Para pruebas
     // Después de agregar y limpiar el input
     mostrarListaAmigos();
 }
