@@ -1,6 +1,6 @@
 <h1 align="center"> Juego del Amigo Secreto 🎁 </h1>
 
-# Descripción
+## Descripción
 
 Aplicación web sencilla en **JavaScript**, **HTML** y **CSS** que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 
@@ -35,10 +35,10 @@ GitHub Pages: https://danjo-jr.github.io/amigo-secreto/
 
 <h1>4. Estructura del proyecto</h1>
 
-AMIGO-SECRETO/
+amigo-secreto/
 │
-img             # Imagenes del proyecto 
-app.js          # Lógica en JavaScript
-index.html      # Estructura principal de la página
-README.md       # Documentación del proyecto
-style.css       # Estilos de la página
+- img             # Imagenes del proyecto 
+- app.js          # Lógica en JavaScript
+- index.html      # Estructura principal de la página
+- README.md       # Documentación del proyecto
+- style.css       # Estilos de la página
