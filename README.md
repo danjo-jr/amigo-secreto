@@ -45,3 +45,8 @@ amigo-secreto/
 - index.html      - Estructura principal de la página
 - README.md       - Documentación del proyecto
 - style.css       - Estilos de la página
+
+<h1>Autor de proyecto</h1>
+
+* **Nombre:** Danilo Alvarez Rodríguez
+* **GitHub:** danjo-jr 
