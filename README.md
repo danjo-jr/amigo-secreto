@@ -25,7 +25,7 @@ Aplicación web sencilla en **JavaScript**, **HTML** y **CSS** que permite a los
 
 <h1>2. Abrir el proyecto</h1>
 
-GitHub Pages: 
+GitHub Pages: https://danjo-jr.github.io/amigo-secreto/
 
 <h1>3. Como jugar</h1>
 
@@ -37,8 +37,8 @@ GitHub Pages:
 
 AMIGO-SECRETO/
 │
-├── img             # Imagenes del proyecto 
-├── app.js          # Lógica en JavaScript
-├── index.html      # Estructura principal de la página
-├── README.md       # Documentación del proyecto
-└── style.css       # Estilos de la página
+img             # Imagenes del proyecto 
+app.js          # Lógica en JavaScript
+index.html      # Estructura principal de la página
+README.md       # Documentación del proyecto
+style.css       # Estilos de la página
